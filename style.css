@@ -91,7 +91,7 @@ main{
 }
 
 @media screen and (max-width: 480px){
-    html, body{
+    body{
         overflow-x: hidden;
     }
     
