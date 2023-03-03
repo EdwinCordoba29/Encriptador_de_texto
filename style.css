@@ -105,7 +105,17 @@ main{
         display: inline;
     }
 
-    .logo, .text-area, .informacion, .botones, .btn-encriptar, .btn-desencriptar, .mensaje, .copiar{
+    .btn-desencriptar{
+        margin-top: 10px;
+        margin-left: 11px;
+    }
+
+    .copiar{
+        margin-left: 11px;
+        width: 250px;
+    }
+
+    .logo, .text-area, .informacion, .botones, .mensaje{
         margin: 10px;
         width: auto;
     }
